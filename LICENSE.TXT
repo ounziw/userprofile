@@ -1,0 +1,4 @@
+@copyright Fumito MIZUNO 2012
+@license GNU Affero General Public License ver.3.0 or later
+http://www.gnu.org/licenses/agpl-3.0.html
+@link http://php-web.net/
